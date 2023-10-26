@@ -1,0 +1,35 @@
+
+
+header{
+    background-image: url("hotel.jpg");
+    height: 110vh;
+    width: auto;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+
+ul{
+    float: right;
+    list-style: none;
+}
+
+ul li{
+    display: inline-block;
+}
+
+ul li a{
+    color: black;
+    padding: 5px 20px;
+    border: 1px white;
+}
+
+ul li a:hover{
+    background-color: white;
+}
+
+marquee{
+       color: red;
+       
+}
